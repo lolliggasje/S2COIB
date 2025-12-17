@@ -1,10 +1,10 @@
-﻿{
+{
     "@odata.context": "https://graph.microsoft.com/beta/$metadata#deviceManagement/configurationPolicies/$entity",
     "createdDateTime": "2024-08-22T17:50:37.0887785Z",
     "creationSource": null,
     "description": "",
     "lastModifiedDateTime": "2024-08-31T12:35:19.5860397Z",
-    "name": "Win365 - OIB - Device Security - D - Connectivity Settings - v1.0",
+    "name": "Win365 - S2C - Device Security - D - Connectivity Settings - v1.0",
     "platforms": "windows10",
     "priorityMetaData": null,
     "roleScopeTagIds": [
